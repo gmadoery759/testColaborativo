@@ -1,4 +1,8 @@
 # testColaborativo
+<<<<<<< HEAD
+Heyyy Walter
+Hola Mundo
+=======
 
 <<<<<<< HEAD
 Hola Mundo
